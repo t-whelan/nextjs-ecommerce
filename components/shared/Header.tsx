@@ -10,7 +10,7 @@ const Header = () => {
         <div className="flex-start">
           <Link href="/">
             <Image
-              src="/icons/mylogo.svg"
+              src="/icons/bmw-logo.png"
               alt="ecommerce logo"
               width={50}
               height={50}

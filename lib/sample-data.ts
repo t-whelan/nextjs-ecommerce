@@ -4,7 +4,10 @@ const sampleData = {
       name: "Motosport BMW Hoodie",
       slug: "loose-fit-jogger-sweatshirt",
       category: "Men's Sweatshirts",
-      images: ["/assets/images/bmw-hoodie.jpg", "/assets/images/p1-2.jpeg"],
+      images: [
+        "/assets/images/bmw-hoodie.jpg",
+        "/assets/images/bmw-hoodie-front.jpg",
+      ],
       price: "599.99",
       brand: "Puma",
       rating: "4.5",
@@ -17,9 +20,9 @@ const sampleData = {
     },
     {
       name: "BMW SHIRT",
-      slug: "BMW Unisex shirt, comfortable and cozy",
+      slug: "BMW-Unisex-shirt-comfortable-and-cozy",
       category: "Men's Shirts",
-      images: ["/assets/images/bmwshirt.jpg", "/assets/images/p2-2.jpeg"],
+      images: ["/assets/images/bmwshirt.jpg", "/assets/images/bmwshirt.jpg"],
       price: "199.90",
       brand: "Puma",
       rating: "4.2",
@@ -32,7 +35,7 @@ const sampleData = {
     },
     {
       name: "BMW Polo",
-      slug: "Stylish Motosrport BMW polo shirt",
+      slug: "Stylish-Motosrport-BMW-polo-shirt",
       category: "Polo",
       images: ["/assets/images/bmw-polo.jpg", "/assets/images/p3-2.jpeg"],
       price: "1449.95",
@@ -44,7 +47,7 @@ const sampleData = {
     },
     {
       name: " BMW WOMENS Shirt",
-      slug: "womens sport-french-capsule-tracksuit-shirt",
+      slug: "womens-sport-french-capsule-tracksuit-shirt",
       category: " Womens Shirts",
       images: ["/assets/images/women-bmw-puma.jpg", "/assets/images/p4-2.jpeg"],
       price: "755.95",
@@ -57,7 +60,7 @@ const sampleData = {
     },
     {
       name: "Casual Bags Classic design.",
-      slug: "BMW SIDEBAG",
+      slug: "BMW-SIDEBAG",
       category: "Accessories",
       images: ["/assets/images/bmw-bag.jpg"],
       price: "600",
